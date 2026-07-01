@@ -1,0 +1,1 @@
+function yes(){document.getElementById('proposal').style.display='none';document.getElementById('final').classList.remove('hidden');for(let i=0;i<80;i++){let h=document.createElement('div');h.className='heart';h.textContent='💛';h.style.left=Math.random()*100+'vw';h.style.animationDelay=(Math.random()*1)+'s';document.body.appendChild(h);setTimeout(()=>h.remove(),5000);}}
