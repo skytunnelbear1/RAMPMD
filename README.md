@@ -1,1 +1,0 @@
-Open index.html locally or upload all files to GitHub Pages/Netlify. Replace the letter with your own words and add photos if desired.
